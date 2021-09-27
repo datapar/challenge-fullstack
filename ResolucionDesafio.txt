@@ -1,0 +1,8 @@
+##A continuación los enlaces a los repositorios de reslucion del desafio tanto Backend como Frontend##
+
+https://github.com/fabir/medapptest-back
+https://github.com/fabir/medapptest-front
+
+Los diagramas se encuentran en la carpeta resources del proyecto backend y las instrucciones para iniciar cada proyecto se encuentra 
+en el README correspondiente a cada uno de ellos. Me encuentro a disposición para cualquier consulta que se requiera.
+
